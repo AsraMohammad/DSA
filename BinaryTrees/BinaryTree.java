@@ -122,5 +122,5 @@ public class BinaryTree { // Main class to represent the Binary Tree
         System.out.println("Level order traversal of the tree:");
         Binarytree.levelOrder(root); // Output: 1 2 3 4 5 6
         //System.out.println(root.data); //  Print the data value of the root node
-    } // 
+    } // output = 1
 }
